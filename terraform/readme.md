@@ -11,4 +11,6 @@ before u start
     * run 'touch ~/.bashrc' for bash users or 'touch ~/.zshrc' for zsh users
     * run 'terraform -install-autocomplete'
     * close the shell and reopen
-    
+
+
+
